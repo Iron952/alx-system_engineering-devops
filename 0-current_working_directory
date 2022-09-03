@@ -1,1 +1,3 @@
- #! /bin/bash \n pwd
+ #! /bin/bash
+ su betty
+
