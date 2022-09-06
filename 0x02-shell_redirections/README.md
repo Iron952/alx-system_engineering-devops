@@ -1,2 +1,1 @@
- hey world
-Display the content of /etc/passwd and /etc/hosts
+head -10 /etc/passwd
