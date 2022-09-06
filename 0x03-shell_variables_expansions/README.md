@@ -1,1 +1,1 @@
-If the path be beautiful, let us not ask where it leads
+Create a script that lists environment variables
