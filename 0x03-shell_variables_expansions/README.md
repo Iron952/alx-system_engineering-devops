@@ -1,1 +1,1 @@
-Write a script that prints a number with two decimal places, followed by a new line
+Create a script that creates an alias
