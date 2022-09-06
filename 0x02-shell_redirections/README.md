@@ -1,1 +1,1 @@
-Write a script that displays all users and their home directories, sorted by users
+Display the last 10 lines of /etc/passwd
