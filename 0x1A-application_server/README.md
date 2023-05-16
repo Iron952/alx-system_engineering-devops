@@ -1,0 +1,1 @@
+The web infrastructure is already serving web pages via Nginx that is installed in  first web stack project. While a web server can also serve dynamic content, this task is usually given to an application server. In this project  will add this piece to  infrastructure, plug it to  Nginx and make is serve the Airbnb clone project.
